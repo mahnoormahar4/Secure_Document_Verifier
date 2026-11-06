@@ -20,8 +20,8 @@ A simple desktop app (Python + Tkinter) that checks whether a document has been 
 ## Run
 
 ```bash
-git clone https://github.com/<your-username>/secure_document_verifier.git
-cd secure_document_verifier
+git clone https://github.com/mahnoormahar4/Secure_Document_Verifier.git
+cd Secure_Document_Verifier
 python main.py
 ```
 
